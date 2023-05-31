@@ -1,0 +1,8 @@
+organization=lakshmanmyweb
+projectKey=shanjavaapp
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.41494
+branch=master
+dashboardUrl=https://sonarcloud.io/dashboard?id=shanjavaapp&branch=master
+ceTaskId=AYhwciArjUNvqXHSPvy2
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYhwciArjUNvqXHSPvy2
